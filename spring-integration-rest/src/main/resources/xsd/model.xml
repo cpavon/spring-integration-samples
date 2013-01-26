@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:objectModel xmlns:tns="http://spring/integration/rest/sample/jaxb/model" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://spring/integration/rest/sample/jaxb/model model.xsd ">
+  <tns:param1>tns:param1</tns:param1>
+  <tns:param2>tns:param2</tns:param2>
+  <tns:param3>tns:param3</tns:param3>
+</tns:objectModel>
