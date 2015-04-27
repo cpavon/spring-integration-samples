@@ -3,4 +3,4 @@ spring-integration-samples
 
 Spring Integration Samples
 
-Edit 1
+Edit 2
